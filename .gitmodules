@@ -1,0 +1,57 @@
+[submodule "bundle/ack.vim"]
+        path = bundle/ack.vim
+        url = git://github.com/mileszs/ack.vim.git
+[submodule "bundle/camelcasemotion"]
+        path = bundle/camelcasemotion
+        url = git://github.com/vim-scripts/camelcasemotion.git
+[submodule "bundle/vim-surround"]
+        path = bundle/vim-surround
+        url = git://github.com/tpope/vim-surround.git
+[submodule "bundle/supertab"]
+        path = bundle/supertab
+        url = git://github.com/ervandew/supertab.git
+[submodule "bundle/command-t"]
+        path = bundle/command-t
+        url = git://git.wincent.com/command-t.git
+[submodule "bundle/repeat"]
+        path = bundle/repeat
+        url = git://github.com/tpope/vim-repeat.git
+[submodule "bundle/vim-fugitive"]
+        path = bundle/vim-fugitive
+        url = git://github.com/tpope/vim-fugitive.git
+[submodule "bundle/minibufexpl"]
+        path = bundle/minibufexpl
+        url = git://github.com/fholgado/minibufexpl.vim.git
+[submodule "bundle/vim-taglist-plus"]
+        path = bundle/vim-taglist-plus
+        url = git://github.com/int3/vim-taglist-plus.git
+[submodule "bundle/gundo"]
+        path = bundle/gundo
+        url = http://github.com/sjl/gundo.vim.git
+[submodule "bundle/xmledit"]
+        path = bundle/xmledit
+        url = git://github.com/sukima/xmledit.git
+[submodule "bundle/nerdcommenter"]
+        path = bundle/nerdcommenter
+        url = git://github.com/scrooloose/nerdcommenter.git
+[submodule "bundle/SingleCompile"]
+        path = bundle/SingleCompile
+        url = git://github.com/vim-scripts/SingleCompile.git
+[submodule "bundle/vim-vividchalk"]
+        path = bundle/vim-vividchalk
+        url = git://github.com/int3/vim-vividchalk.git
+[submodule "bundle/snipmate.vim"]
+        path = bundle/snipmate.vim
+        url = git://github.com/msanders/snipmate.vim.git
+[submodule "bundle/vim-extradite"]
+        path = bundle/vim-extradite
+        url = git://github.com/int3/vim-extradite.git
+[submodule "bundle/clang-complete"]
+	path = bundle/clang-complete
+	url = git://github.com/Rip-Rip/clang_complete.git
+[submodule "bundle/vim-javascript"]
+	path = bundle/vim-javascript
+	url = git://github.com/pangloss/vim-javascript.git
+[submodule "bundle/vim-markdown"]
+	path = bundle/vim-markdown
+	url = git://github.com/tpope/vim-markdown.git
